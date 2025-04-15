@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project analyzes housing price trends within the domain of real estate and housing economics, focusing on 10 of the 25 most populous U.S. states. These states represent diverse and high-demand real estate markets that face challenges such as increasing population density, urbanization, and affordability.
+This project analyses housing price trends within the domain of real estate and housing economics, focusing on 10 of the 25 most populous U.S. states. These states represent diverse and high-demand real estate markets that face challenges such as increasing population density, urbanisation, and affordability.
 
 ## Domain Context
 
-Housing prices are influenced by a variety of factors, including property size, location, and population density. This study emphasizes how these variables interact, with a particular focus on how densely populated states affect the relationship between property size (measured in square feet) and housing prices.
+Housing prices are influenced by a variety of factors, including property size, location, and population density. This study emphasises how these variables interact, with a particular focus on how densely populated states affect the relationship between property size (measured in square feet) and housing prices.
 
 ## Objectives
 
